@@ -5,7 +5,7 @@ NEXTJS, Typescript, and BandProtocol's Api.
 
 ## This project uses Band Protocol's API to create a community on the Rinkebery Blockchain.
 
-The Purpose of this project is to utilize the API and create a smooth interface on top of it, and for anyone that might have some
+The Purpose of this project is to utilize the API and create a smooth interface on top of it, and for anyone that might have
 trouble setting things up. Here is the link to the docs https://developer.bandprotocol.com/docs/community.html#band-native-token
 
 ## Run project
