@@ -64,13 +64,13 @@ This hook takes in three parameters clients, communityTitle, communitySymbol.
 
 ## Finished project and Steps
 
-- First Step
+- First Step (Create Community name) 
 <img width="2047" alt="Screen Shot 2019-05-27 at 12 51 47 AM" src="https://user-images.githubusercontent.com/35783824/58385421-66942280-801a-11e9-8c67-2637db370651.png">
 
--Second Step 
+-Second Step (Create Symbol) 
 <img width="2048" alt="Screen Shot 2019-05-27 at 12 52 00 AM" src="https://user-images.githubusercontent.com/35783824/58385427-7ca1e300-801a-11e9-8fe2-bce6a4c16ee6.png">
 
--Third Step 
+-Third Step - Creating Community
 <img width="2048" alt="Screen Shot 2019-05-27 at 12 52 24 AM" src="https://user-images.githubusercontent.com/35783824/58385436-93e0d080-801a-11e9-9bb1-b0b82115cf40.png">
 
 
