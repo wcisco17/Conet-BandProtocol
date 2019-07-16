@@ -75,5 +75,8 @@ This hook takes in three parameters clients, communityTitle, communitySymbol.
 -Third Step - Creating Community
 <img width="2048" alt="Screen Shot 2019-05-27 at 12 52 24 AM" src="https://user-images.githubusercontent.com/35783824/58385436-93e0d080-801a-11e9-9bb1-b0b82115cf40.png">
 
+<p align="center" >
+    Feel free to clone
+ </p>
 
 
